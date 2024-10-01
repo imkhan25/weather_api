@@ -30,7 +30,11 @@ set OPENWEATHERMAP_API_KEY='your_api_key_here'  # On Windows
 Usage
 Run the application:
 
-python main.py <city_name> [-u <units>]
+For a 10-day forecast:
+python main.py London --forecast 10 -u metric
+For a 30-day forecast:
 
-Example
-python main.py London -u metric
+python main.py London --forecast 30 -u metric
+For current weather:
+
+python main.py London
