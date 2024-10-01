@@ -15,7 +15,7 @@ A simple Python application to fetch weather data from OpenWeatherMap API.
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/simple_weather_app.git
+   git clone https://github.com/imkhan25/simple_weather_app.git
    cd simple_weather_app
    
 2.Install dependencies:
